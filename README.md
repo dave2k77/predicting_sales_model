@@ -1,4 +1,5 @@
-# predicting_sales_model
+# Predictive Modelling of Sales Data
+
 We will create a machine learning model to predict whether the next product sold will be paid or unpaid. 
 
 ## Introduction:
